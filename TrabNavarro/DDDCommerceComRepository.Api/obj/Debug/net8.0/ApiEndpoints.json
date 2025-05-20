@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PagamentoController",
+    "Method": "ObterTodosPagamentos",
+    "RelativePath": "api/pagamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PagamentoController",
+    "Method": "CriarPagamento",
+    "RelativePath": "api/pagamentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagamento",
+        "Type": "DDDCommerceComRepository.Domain.Pagamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PagamentoController",
+    "Method": "ProcessarPagamento",
+    "RelativePath": "api/pagamentos/{id}/processar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusProcessado",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PedidoController",
+    "Method": "Get",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PedidoController",
+    "Method": "Post",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "DDDCommerceComRepository.Domain.Pedido",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDDCommerceComRepository.Api.Controllers.PedidoController",
+    "Method": "Put",
+    "RelativePath": "api/Pedido/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "despachadoStatus",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

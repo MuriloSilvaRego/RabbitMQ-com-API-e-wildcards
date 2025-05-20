@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WflGWN6k0RWE/GnoqPhxmveCLbwvSeXdeY6iy3Ze3Rk=",
+  "Source": "DDDCommerceComRepository.Api",
+  "BasePath": "_content/DDDCommerceComRepository.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

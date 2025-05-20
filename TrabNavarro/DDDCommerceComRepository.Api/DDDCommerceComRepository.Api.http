@@ -1,0 +1,6 @@
+@DDDCommerceComRepository.Api_HostAddress = http://localhost:5184
+
+GET {{DDDCommerceComRepository.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

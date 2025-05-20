@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEA3225-CE72-4730-9062-960502687885}|PublisherPagamentoDespachar\\PublisherPedido.csproj|c:\\users\\muril\\desktop\\navarrorabbit\\publisher\\publisherpagamentodespachar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEA3225-CE72-4730-9062-960502687885}|PublisherPagamentoDespachar\\PublisherPedido.csproj|solutionrelative:publisherpagamentodespachar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83826247-D862-4AC8-A9B6-C1834C086C9E}|PublisherPagamentoEDespache\\PublisherPagamentoEDespache.csproj|c:\\users\\muril\\desktop\\navarrorabbit\\publisher\\publisherpagamentoedespache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83826247-D862-4AC8-A9B6-C1834C086C9E}|PublisherPagamentoEDespache\\PublisherPagamentoEDespache.csproj|solutionrelative:publisherpagamentoedespache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|c:\\users\\muril\\desktop\\navarrorabbit\\publisher\\publisherpedidoscomexchange\\subscriberpagamento_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|solutionrelative:publisherpedidoscomexchange\\subscriberpagamento_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|c:\\users\\muril\\desktop\\navarrorabbit\\publisher\\publisherpedidoscomexchange\\subscriber_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|solutionrelative:publisherpedidoscomexchange\\subscriber_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|c:\\users\\muril\\desktop\\navarrorabbit\\publisher\\publisherpedidoscomexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B76861F-50B8-401F-9E63-497471A481BD}|PublisherPedidosComExchange\\PublisherPedidosComExchange.csproj|solutionrelative:publisherpedidoscomexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPagamentoEDespache\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherPagamentoEDespache\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPagamentoEDespache\\Program.cs",
+              "RelativeToolTip": "PublisherPagamentoEDespache\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:01:33.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subscriberpagamento_exemplo.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\subscriberpagamento_exemplo.cs",
+              "RelativeDocumentMoniker": "PublisherPedidosComExchange\\subscriberpagamento_exemplo.cs",
+              "ToolTip": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\subscriberpagamento_exemplo.cs",
+              "RelativeToolTip": "PublisherPedidosComExchange\\subscriberpagamento_exemplo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:43:43.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "subscriber_exemplo.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\subscriber_exemplo.cs",
+              "RelativeDocumentMoniker": "PublisherPedidosComExchange\\subscriber_exemplo.cs",
+              "ToolTip": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\subscriber_exemplo.cs",
+              "RelativeToolTip": "PublisherPedidosComExchange\\subscriber_exemplo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:42:07.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPagamentoDespachar\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherPagamentoDespachar\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPagamentoDespachar\\Program.cs",
+              "RelativeToolTip": "PublisherPagamentoDespachar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:22:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherPedidosComExchange\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\Desktop\\NavarroRabbit\\Publisher\\PublisherPedidosComExchange\\Program.cs",
+              "RelativeToolTip": "PublisherPedidosComExchange\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:18:09.554Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

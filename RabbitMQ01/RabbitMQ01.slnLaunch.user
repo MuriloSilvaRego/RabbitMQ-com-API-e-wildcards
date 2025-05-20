@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "subscriberAddPagamento\\subscriberAddPagamento.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "subscriberProcessaPedido\\subscriberProcessaPagamento.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "subscriberDespachaPedidos\\subscriberDespachaPedidos.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SubscriberAddPedido\\SubscriberAddPedido.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
