@@ -1,0 +1,17 @@
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\PublisherPedido.exe
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\PublisherPedido.deps.json
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\PublisherPedido.runtimeconfig.json
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\PublisherPedido.dll
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\PublisherPedido.pdb
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.csproj.AssemblyReference.cache
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.AssemblyInfo.cs
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\Publishe.F467DD78.Up2Date
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.dll
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\refint\PublisherPedido.dll
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.pdb
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\PublisherPedido.genruntimeconfig.cache
+C:\Users\muril\Desktop\rabbitMQ\Publisher\PublisherPagamentoDespachar\obj\Debug\net8.0\ref\PublisherPedido.dll
